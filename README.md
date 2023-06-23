@@ -7,7 +7,7 @@
 * [x] [Como Surgiu o Conceito da Orientação a Objetos?](http://github.com//Devsgeeknerd/cla-com-sur-con-ori-obj-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 * [x] [Mas Ainda Não Estou Convencido. Por Que a Orientação a Objetos?](https://github.com/Devsgeeknerd/cla-mas-ain-nao-est-con-por-que-ori-obj-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 * [x] [Mais Detalhes do Paradigma Orientado a Objetos.](https://github.com/Devsgeeknerd/cla-mai-det-par-ori-obj-ent-mel-que-ori-obj-log-ori-obj-com-bas)
-* [ ] [Diagramas UMl e o Diagrama de Classes.](https://github.com/Devsgeeknerd/cla-dia-uml-dia-cla-ent-mel-que-ori-obj-log-ori-obj-com-bas) &#128679;
+* [x] [Diagramas UMl e o Diagrama de Classes.](https://github.com/Devsgeeknerd/cla-dia-uml-dia-cla-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
